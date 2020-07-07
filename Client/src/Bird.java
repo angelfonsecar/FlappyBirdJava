@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import javax.imageio.ImageIO;
 import java.awt.Rectangle;
 
-public class Bird {
+public class Bird {//probando la edición en github by Angel 
 
 	private ArrayList<Image> birdsprites = new ArrayList<>();
 	private BoxArea birdbox;
